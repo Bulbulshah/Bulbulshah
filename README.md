@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @Bulbulshah
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
+🎮 **INSERT COIN TO CONTINUE**  
+
+🕹️ PLAYER: [Bulbul shah]  
+💾 SKILLS: C++ | Frontend Dev | Wordpress  
+🏆 HIGH SCORE: 42,000  
+
+🛠️ **SELECT A MODE:**  
+[▶️ Start Project] [💾 Load Code] [⚙️ Debug Mode]  
+
+> "Game over? Nah. I just respawned."
 
 
 <!---
