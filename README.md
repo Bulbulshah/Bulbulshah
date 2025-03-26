@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bulbul Shah</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7A5AE4&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Bulbul+Shah+👨🏻‍💻;+19+Year+Old;+BSCS+Student🎓" />
+</h1>
 <h3 align="center">A Passionate Computer Science Student From Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulbulshah&label=Profile%20views&color=0e75b6&style=flat" alt="bulbulshah" /> </p>
