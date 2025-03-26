@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bulbul Shah</h1>
 <h3 align="center">A Passionate Computer Science Student From Pakistan</h3>
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulbulshah&label=Profile%20views&color=0e75b6&style=flat" alt="bulbulshah" /> </p>
 
 <p align="left"> <a href="https://twitter.com/buddlay313" target="blank"><img src="https://img.shields.io/twitter/follow/buddlay313?logo=twitter&style=for-the-badge" alt="buddlay313" /></a> </p>
@@ -28,5 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bulbulshah&show_icons=true&locale=en" alt="bulbulshah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bulbulshah&" alt="bulbulshah" /></p>
-
 
